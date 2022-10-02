@@ -1,0 +1,19 @@
+*{
+  padding:0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  vertical-align: baseline;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+:root{
+  --color-white:rgb(220,210,210);
+  --color-background:rgb(17,17,17);
+}
+body{
+  font-family: 'Ubuntu',sans-serif;
+  overflow-x: hidden;
+}
